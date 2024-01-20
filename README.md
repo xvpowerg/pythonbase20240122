@@ -1,6 +1,5 @@
 # pythonbase20240122
 
-# pythonBase20230703
 ### anaconda
 https://www.anaconda.com/download
 ### 氣象局API網址
@@ -10,9 +9,8 @@ https://opendata.cwa.gov.tw/dist/opendata-swagger.html
 
 ### 電影排行榜
 https://zh.wikipedia.org/zh-tw/2023%E5%B9%B4%E7%94%B5%E5%BD%B1
-
-### 新翻列表
-https://acgsecrets.hk/bangumi/202301/
+### JSON顯示器
+https://jsonformatter.org/json-parser
 ## 課程用套件
 
 ChatGPT
